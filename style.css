@@ -1,0 +1,57 @@
+html{
+	position: relative;
+}
+body{
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+.jumbotron img{
+	width: 200px;
+	height: 200px;
+	border: 5px solid #777;
+}
+hr{
+	width: 250px;
+	border-top: 3px solid #999;
+}
+section{
+	min-height: 500px;
+}
+
+footer{
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: #333;
+	color: #aaa;
+}
+.inputan{
+	min-height: 800px;
+}
+
+input[type=text]{
+	font-size: 24px;
+}
+
+.bobot{
+	min-height: 800px;
+}
+.tampilmob{
+	background-color: #eee;
+	min-height: 1000px;
+}
+#idmob{
+	visibility: hidden;
+}
+section #list{
+	font-size: 24px;
+	text-align: center;
+}
+#viewbro{
+	min-height: 900px;
+}
+#viewbro table tr td{
+	width: 500px;
+	margin: 130px;
+}
